@@ -1,9 +1,11 @@
 {
-  "name": "x-stub",
+  "name": "x-tag-markdown",
   "version": "0.1.1",
-  "dependencies": {},
+  "dependencies": {
+    "markdown-it": "*"
+  },
   "devDependencies": {
-    "bower": "~1.7.7",
+    "bower": "~1.7.9",
     "grunt": "~0.4.5",
     "grunt-contrib-concat": "~0.1.3",
     "grunt-smush-components": "~0.2.0",
