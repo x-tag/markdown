@@ -1,6 +1,6 @@
 {
   "name": "x-tag-markdown",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "dependencies": {
     "markdown-it": "*"
   },
